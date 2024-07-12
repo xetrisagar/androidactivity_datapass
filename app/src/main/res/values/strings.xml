@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Data_passing</string>
+
+    <string-array name="courses">
+        <item>select courses</item>
+        <item>bca</item>
+        <item>bbs</item>
+        <item>b.e.d</item>
+    </string-array>
+</resources>
